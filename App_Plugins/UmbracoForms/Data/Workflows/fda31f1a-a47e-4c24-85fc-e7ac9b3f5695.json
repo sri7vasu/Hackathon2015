@@ -1,0 +1,14 @@
+{
+  "id": "fda31f1a-a47e-4c24-85fc-e7ac9b3f5695",
+  "name": "Send email to sri7vasu@gmail.com when submitted",
+  "form": "f78d278f-6d96-424b-b57e-808d14e8ff41",
+  "active": true,
+  "workflowTypeId": "e96badd7-05be-4978-b8d9-b3d733de70a5",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "sri7vasu@gmail.com",
+    "Subject": "the form Comment form was submitted",
+    "Message": "the form Comment form was submitted, this is the list of values it contained, you can turn this email off under workflows in Umbraco Contour"
+  },
+  "sortOrder": 0
+}
